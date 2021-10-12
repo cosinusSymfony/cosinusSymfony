@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cosinusSymfony
-- 👀 I’m interested in all laguage programing
+- 👀 I’m interested in all language programing
 - 🌱 I’m currently learning python, php, amd other
 - 💞️ I’m looking to collaborate on 'moon'
 - 📫 How to reach me symfony_test@protonmail.com
